@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @younes-vm
 - 👀 I’m interested in programming and computer hardware and smartphones
-- 🌱 I’m currently re-learning the basics with Scratch, HTML, CSS, JavaScript and Python
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 🌱 I’m currently teaching a beginner's front-end course
+- 🎓 I’m currently studying Computer Science at KNTU
 - 📫 How to reach me: instagram: "younesvm_" or email: "younesvm@gmail.com"
 
 <!---
