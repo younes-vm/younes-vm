@@ -3,7 +3,7 @@
 - 🌱 I have experience teaching how to code
 - 🎓 I’m currently studying Computer Science at KNTU
 - 📚 Right now I'm improving my skills on Data Structures and Algorithm Design
-- ✅ I want to learn about Web 3.0, Django and improve on JavaScript next
+- ✅ I want to learn DevOps next
 - 📫 How to reach me: Instagram: "younesvm_" or email: "younesvm@gmail.com"
 
 <!---
