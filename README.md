@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @younes-vm
-- 👀 I’m passionate about programming and computer science
+- 👀 I’m a passionate computer scientist
 - 🌱 I have experience teaching how to code
 - 🎓 I’m currently studying Computer Science at KNTU
 - 📚 Right now I'm leading a front-end development club
