@@ -2,7 +2,7 @@
 - 👀 I’m a passionate computer scientist
 - 🌱 I have experience teaching how to code
 - 🎓 I’m currently studying Computer Science at KNTU
-- 📚 Right now I'm leading a front-end development club
+- 📚 Right now I'm working on growing my knowledge in different fields of CS
 - 📫 How to reach me: email: younesvm@gmail.com or Instagram: @younesvm_ or Telegram: @younesvm
 
 <!---
